@@ -1,0 +1,10 @@
+{
+  "id": "k9s",
+  "version": "0.0.1",
+  "name": "k9s",
+  "description": "Install k9s Kubernetes CLI.",
+  "documentationURL": "https://github.com/nikunh/k9s-vishkrm",
+  "licenseURL": "https://github.com/nikunh/k9s-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": []
+}
