@@ -29,3 +29,4 @@ tar -xzf /tmp/k9s.tar.gz -C /tmp
 mv /tmp/k9s "$INSTALL_DIR/k9s"
 chmod +x "$INSTALL_DIR/k9s"
 echo "k9s installed: $($INSTALL_DIR/k9s version)"
+# Test automation Tue Sep 23 19:56:28 BST 2025
