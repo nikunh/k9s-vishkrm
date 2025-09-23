@@ -30,3 +30,4 @@ mv /tmp/k9s "$INSTALL_DIR/k9s"
 chmod +x "$INSTALL_DIR/k9s"
 echo "k9s installed: $($INSTALL_DIR/k9s version)"
 # Test automation Tue Sep 23 19:56:28 BST 2025
+# Auto-trigger build Tue Sep 23 20:03:16 BST 2025
