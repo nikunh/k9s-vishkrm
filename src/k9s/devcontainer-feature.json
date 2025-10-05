@@ -1,6 +1,6 @@
 {
   "id": "k9s",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "k9s",
   "description": "Install k9s Kubernetes CLI.",
   "documentationURL": "https://github.com/nikunh/k9s-vishkrm",
